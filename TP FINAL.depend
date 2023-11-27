@@ -1,0 +1,559 @@
+# depslib dependency file v1.0
+1700718346 source:c:\users\valen\onedrive\escritorio\tp final lab2\tpfinal\autos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"ArregloDeListas.h"
+
+1700719916 c:\users\valen\onedrive\escritorio\tp final lab2\tpfinal\autos.h
+
+1700619671 c:\users\valen\onedrive\escritorio\tp final lab2\tpfinal\prots-listas-autos.h
+	"Autos.h"
+
+1700719461 source:c:\users\valen\onedrive\escritorio\tp final lab2\tpfinal\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Clientes.h"
+	"arbolGeneral.h"
+
+1700711647 c:\users\valen\onedrive\escritorio\tp final lab2\tpfinal\clientes.h
+
+1700711647 c:\users\valen\onedrive\escritorio\tp final lab2\tpfinal\listas2clientes.h
+	"Clientes.h"
+
+1700706693 source:c:\users\valen\onedrive\escritorio\tp final lab2\tpfinal\func-listas-autos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Prots-LISTAS-autos.h"
+
+1700711647 source:c:\users\valen\onedrive\escritorio\tp final lab2\tpfinal\listas2clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"listas2Clientes.h"
+
+1700715021 source:c:\users\valen\onedrive\escritorio\tp final lab2\tpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"menu.h"
+	"Autos.h"
+
+1700711647 c:\users\valen\onedrive\escritorio\tp final lab2\tpfinal\menu.h
+
+1700719616 source:c:\users\valen\onedrive\escritorio\tp final lab2\tpfinal\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Autos.h"
+	"Clientes.h"
+	"menu.h"
+	"listas2Clientes.h"
+	"arbolGeneral.h"
+	"filas.h"
+
+1700711647 source:c:\users\valen\onedrive\escritorio\tp final lab2\tpfinal\arbolgeneral.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"Autos.h"
+	"arbolGeneral.h"
+
+1700711647 c:\users\valen\onedrive\escritorio\tp final lab2\tpfinal\arbolgeneral.h
+	"Autos.h"
+	"Clientes.h"
+	"menu.h"
+
+1699452324 source:c:\users\antub\documents\programacion\utn\laboratorio y programacion 2\tpfinal\tpfinal\autos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Autos.h"
+	"Prots-LISTAS-autos.h"
+
+1699452324 c:\users\antub\documents\programacion\utn\laboratorio y programacion 2\tpfinal\tpfinal\autos.h
+
+1699452324 c:\users\antub\documents\programacion\utn\laboratorio y programacion 2\tpfinal\tpfinal\prots-listas-autos.h
+	"Autos.h"
+
+1699539282 source:c:\users\antub\documents\programacion\utn\laboratorio y programacion 2\tpfinal\tpfinal\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Clientes.h"
+	"arbolGeneral.h"
+
+1699452324 c:\users\antub\documents\programacion\utn\laboratorio y programacion 2\tpfinal\tpfinal\clientes.h
+
+1699452324 c:\users\antub\documents\programacion\utn\laboratorio y programacion 2\tpfinal\tpfinal\listas2clientes.h
+	"Clientes.h"
+
+1699452324 source:c:\users\antub\documents\programacion\utn\laboratorio y programacion 2\tpfinal\tpfinal\func-listas-autos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Prots-LISTAS-autos.h"
+	"Autos.h"
+
+1699452324 source:c:\users\antub\documents\programacion\utn\laboratorio y programacion 2\tpfinal\tpfinal\listas2clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"listas2Clientes.h"
+
+1699452324 source:c:\users\antub\documents\programacion\utn\laboratorio y programacion 2\tpfinal\tpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"menu.h"
+
+1699452324 c:\users\antub\documents\programacion\utn\laboratorio y programacion 2\tpfinal\tpfinal\menu.h
+
+1699539342 source:c:\users\antub\documents\programacion\utn\laboratorio y programacion 2\tpfinal\tpfinal\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Autos.h"
+	"Clientes.h"
+	"menu.h"
+	"listas2Clientes.h"
+	"arbolGeneral.h"
+
+1699539401 source:c:\users\antub\documents\programacion\utn\laboratorio y programacion 2\tpfinal\tpfinal\arbolgeneral.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"Autos.h"
+	"arbolGeneral.h"
+
+1699530165 c:\users\antub\documents\programacion\utn\laboratorio y programacion 2\tpfinal\tpfinal\arbolgeneral.h
+	"Autos.h"
+	"Clientes.h"
+	"menu.h"
+
+1700614456 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\arbolgeneral.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"Autos.h"
+	"arbolGeneral.h"
+
+1700707036 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\clientes.h
+
+1700614456 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\menu.h
+
+1700614456 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\arbolgeneral.h
+	"Autos.h"
+	"Clientes.h"
+	"menu.h"
+
+1700614456 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\autos.h
+
+1700614456 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\autos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Autos.h"
+	"Prots-LISTAS-autos.h"
+	"ArregloDeListas.h"
+
+1700699566 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\prots-listas-autos.h
+	"Autos.h"
+
+1700708879 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Clientes.h"
+	"arbolGeneral.h"
+
+1700614456 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\listas2clientes.h
+	"Clientes.h"
+
+1700696602 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\func-listas-autos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Prots-LISTAS-autos.h"
+	"Autos.h"
+
+1700614456 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\listas2clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"listas2Clientes.h"
+
+1700614456 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"menu.h"
+	"Autos.h"
+
+1700708659 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Autos.h"
+	"Clientes.h"
+	"menu.h"
+	"listas2Clientes.h"
+	"arbolGeneral.h"
+	"filas.h"
+
+1698924824 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\alquileres de autos programa tpfinal\arbolgeneral.c
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Clientes.h"
+	"menu.h"
+	"arbolGeneral.h"
+
+1698927048 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\alquileres de autos programa tpfinal\clientes.h
+
+1698924824 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\alquileres de autos programa tpfinal\menu.h
+
+1698924824 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\alquileres de autos programa tpfinal\arbolgeneral.h
+	"Autos.h"
+	"Clientes.h"
+	"menu.h"
+
+1698924824 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\alquileres de autos programa tpfinal\autos.h
+
+1698924824 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\alquileres de autos programa tpfinal\autos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Autos.h"
+	"Prots-LISTAS-autos.h"
+
+1698924824 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\alquileres de autos programa tpfinal\prots-listas-autos.h
+	"Autos.h"
+
+1698953572 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\alquileres de autos programa tpfinal\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Clientes.h"
+	"listas2Clientes.h"
+
+1698924824 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\alquileres de autos programa tpfinal\listas2clientes.h
+	"Clientes.h"
+
+1698924824 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\alquileres de autos programa tpfinal\func-listas-autos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Prots-LISTAS-autos.h"
+	"Autos.h"
+
+1698932330 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\alquileres de autos programa tpfinal\listas2clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"listas2Clientes.h"
+
+1698924824 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\alquileres de autos programa tpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"menu.h"
+
+1698953311 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\alquileres de autos programa tpfinal\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Autos.h"
+	"Clientes.h"
+	"menu.h"
+
+1699617194 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\tpfinal\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Clientes.h"
+	"arbolGeneral.h"
+
+1699613214 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\tpfinal\clientes.h
+
+1699569294 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\tpfinal\listas2clientes.h
+	"Clientes.h"
+
+1699569294 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\tpfinal\func-listas-autos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Prots-LISTAS-autos.h"
+	"Autos.h"
+
+1699569294 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\tpfinal\prots-listas-autos.h
+	"Autos.h"
+
+1699569652 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\tpfinal\autos.h
+
+1699569294 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\tpfinal\listas2clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"listas2Clientes.h"
+
+1699569860 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\tpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"menu.h"
+	"Autos.h"
+
+1699569294 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\tpfinal\menu.h
+
+1699616297 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\tpfinal\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Autos.h"
+	"Clientes.h"
+	"menu.h"
+	"listas2Clientes.h"
+	"arbolGeneral.h"
+
+1699616012 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\tpfinal\arbolgeneral.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"Autos.h"
+	"arbolGeneral.h"
+
+1699613214 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\tpfinal\arbolgeneral.h
+	"Autos.h"
+	"Clientes.h"
+	"menu.h"
+
+1699569707 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\tpfinal\autos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Autos.h"
+	"Prots-LISTAS-autos.h"
+	"ArregloDeListas.h"
+
+1700719616 source:c:\users\valen\onedrive\escritorio\tp final lab2\tpfinal\arreglodelistas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"ArregloDeListas.h"
+
+1700719616 c:\users\valen\onedrive\escritorio\tp final lab2\tpfinal\arreglodelistas.h
+	"Prots-LISTAS-autos.h"
+
+1699569385 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\tpfinal\arreglodelistas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"ArregloDeListas.h"
+
+1699569294 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\tpfinal\arreglodelistas.h
+	"Prots-LISTAS-autos.h"
+
+1699620647 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\tpfinal\filaclientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"filaClientes.h"
+	"listas2Clientes.h"
+	"Clientes.h"
+
+1699620259 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\tpfinal\filaclientes.h
+	"listas2Clientes.h"
+
+1700614456 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\arreglodelistas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"ArregloDeListas.h"
+
+1700614456 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\arreglodelistas.h
+	"Prots-LISTAS-autos.h"
+
+1700709879 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\filas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"filas.h"
+
+1700685271 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\filas.h
+
+1700699565 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\pila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Pila.h"
+
+1700699560 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal\pila.h
+	"Prots-LISTAS-autos.h"
+
+1700714961 source:c:\users\valen\onedrive\escritorio\tp final lab2\tpfinal\pila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Pila.h"
+
+1700711647 c:\users\valen\onedrive\escritorio\tp final lab2\tpfinal\pila.h
+	"Prots-LISTAS-autos.h"
+
+1700711647 c:\users\valen\onedrive\escritorio\tp final lab2\tpfinal\filas.h
+
+1700711647 source:c:\users\valen\onedrive\escritorio\tp final lab2\tpfinal\filas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"filas.h"
+
+1700720364 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal-bertero-guerrieri\tpfinal\arbolgeneral.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"Autos.h"
+	"arbolGeneral.h"
+
+1700720364 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal-bertero-guerrieri\tpfinal\autos.h
+
+1700720364 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal-bertero-guerrieri\tpfinal\arbolgeneral.h
+	"Autos.h"
+	"Clientes.h"
+	"menu.h"
+
+1700720364 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal-bertero-guerrieri\tpfinal\clientes.h
+
+1700720364 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal-bertero-guerrieri\tpfinal\menu.h
+
+1700720364 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal-bertero-guerrieri\tpfinal\arreglodelistas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"ArregloDeListas.h"
+
+1700720364 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal-bertero-guerrieri\tpfinal\arreglodelistas.h
+	"Prots-LISTAS-autos.h"
+
+1700720364 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal-bertero-guerrieri\tpfinal\prots-listas-autos.h
+	"Autos.h"
+
+1700720364 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal-bertero-guerrieri\tpfinal\autos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"ArregloDeListas.h"
+
+1700720364 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal-bertero-guerrieri\tpfinal\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Clientes.h"
+	"arbolGeneral.h"
+
+1700720364 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal-bertero-guerrieri\tpfinal\filas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"filas.h"
+
+1700720364 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal-bertero-guerrieri\tpfinal\filas.h
+
+1700720364 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal-bertero-guerrieri\tpfinal\func-listas-autos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Prots-LISTAS-autos.h"
+
+1700720364 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal-bertero-guerrieri\tpfinal\listas2clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"listas2Clientes.h"
+
+1700720364 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal-bertero-guerrieri\tpfinal\listas2clientes.h
+	"Clientes.h"
+
+1700720364 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal-bertero-guerrieri\tpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"menu.h"
+	"Autos.h"
+
+1700720364 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal-bertero-guerrieri\tpfinal\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Autos.h"
+	"Clientes.h"
+	"menu.h"
+	"listas2Clientes.h"
+	"arbolGeneral.h"
+	"filas.h"
+
+1700720364 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal-bertero-guerrieri\tpfinal\pila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Pila.h"
+
+1700720364 e:\programacion\utn\1 a—o\programacion y laboratorio 2\tpautofinal\tpfinal-bertero-guerrieri\tpfinal\pila.h
+	"Prots-LISTAS-autos.h"
+
